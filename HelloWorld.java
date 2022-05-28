@@ -1,25 +1,5 @@
-
 public class HelloWorld {
   public static void main(String[] args) {
-    System.out.println(Strinig"Hello, baby-->good mrning");
+    System.out.println("Hello, World");
   }
-}"Hello, baby-->good mrning")
-"Hello, baby-->good mrning"
-"Hello, baby-->good mrning")
-"Hello, baby-->good mrning")
-"Hello, baby-->good mrning")
-"Hello, baby-->good mrning")
-"Hello, baby-->good mrning")
-"Hello, baby-->good mrning")
-"Hello, baby-->good mrning")
-"Hello, baby-->good mrning")
-"Hello, baby-->good mrning")
-"Hello, baby-->good mrning")
-"Hello, baby-->good mrning")
-"Hello, baby-->good mrning")
-"Hello, baby-->good mrning")
-"Hello, baby-->good mrning")
-"Hello, baby-->good mrning")
-"Hello, baby-->good mrning")
-"Hello, baby-->good mrning")
-"Hello, baby-->good mrning")
+}
